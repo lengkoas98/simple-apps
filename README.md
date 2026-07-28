@@ -6,8 +6,8 @@ vim .env
 
 ```
 DB_NAME=training
-DB_HOST=ipaddress
-DB_USER=peserta
-DB_PASS=password
+DB_HOST=172.23.6.131
+DB_USER=ops
+DB_PASS=ops
 APP_PORT=3000
 ```
