@@ -35,7 +35,7 @@ pipeline {
                     -Dsonar.projectKey=Simple-Apps \
                     -Dsonar.sources=. \
                     -Dsonar.host.url=http://172.23.6.131:9000 \
-                    -Dsonar.login=sqp_69934086125abada7fea979e5934a301d9828e56
+                    -Dsonar.login=sqp_5840d90cfd68e2d4e44f93d6dec336f0c5e1b9e0
                 '''
             }
         }
